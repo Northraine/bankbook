@@ -1,2 +1,2 @@
 # bankbook
-This is for bank book
+This contains some actual code that simulates the creation and transfer of dynamic accounts.
